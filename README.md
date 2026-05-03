@@ -1,11 +1,8 @@
 # Prueba Diagnóstica - Lenguajes y Compiladores
 
 **Universidad:** Universidad Nacional Experimental de Guayana (UNEG)
-**Vicerrectorado:** Académico
-**Coordinación:** Ingeniería en Informática
 **Profesor:** Msc. Félix Márquez
 **Autor:** Emilio Curbata
-**Periodo Lectivo:** 2026-1[cite: 1]
 
 ---
 
@@ -22,7 +19,7 @@ Cumpliendo con los lineamientos de entrega, el repositorio se estructura en 4 ca
 *   **`Problema1/`**: Contiene la solución para clasificar componentes de una expresión aritmética (NUMERO, OPERANDO, OPERADOR, etc.)[cite: 1].
 *   **`Problema2/`**: Contiene el validador de sintaxis para cadenas bajo la Notación FEN (Forsyth-Edwards Notation) de ajedrez[cite: 1].
 *   **`Problema3/`**: Contiene el algoritmo para verificar la Conjetura de Collatz en un intervalo dado [p, q][cite: 1].
-*   **`Defensa/`**: Contiene archivos complementarios de ejecución y referencias.
+*   **`Defensa/`**: Contiene link de video defensa
 
 ---
 
