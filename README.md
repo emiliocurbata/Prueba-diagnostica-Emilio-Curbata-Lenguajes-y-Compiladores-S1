@@ -8,17 +8,17 @@
 
 ## 📌 Descripción del Proyecto
 
-Este repositorio contiene las soluciones en código fuente para la Prueba Diagnóstica de la asignatura Lenguajes y Compiladores[cite: 1]. El objetivo es demostrar competencias en el manejo de expresiones regulares, análisis léxico y lógica algorítmica mediante la resolución de tres planteamientos específicos implementados en **Python**.
+Este repositorio contiene las soluciones en código fuente para la Prueba Diagnóstica de la asignatura Lenguajes y Compiladores. El objetivo es demostrar competencias en el manejo de expresiones regulares, análisis léxico y lógica algorítmica mediante la resolución de tres planteamientos específicos implementados en **Python**.
 
 ---
 
 ## 📁 Estructura del Repositorio
 
-Cumpliendo con los lineamientos de entrega, el repositorio se estructura en 4 carpetas[cite: 1]:
+Cumpliendo con los lineamientos de entrega, el repositorio se estructura en 4 carpetas:
 
-*   **`Problema1/`**: Contiene la solución para clasificar componentes de una expresión aritmética (NUMERO, OPERANDO, OPERADOR, etc.)[cite: 1].
-*   **`Problema2/`**: Contiene el validador de sintaxis para cadenas bajo la Notación FEN (Forsyth-Edwards Notation) de ajedrez[cite: 1].
-*   **`Problema3/`**: Contiene el algoritmo para verificar la Conjetura de Collatz en un intervalo dado [p, q][cite: 1].
+*   **`Problema1/`**: Contiene la solución para clasificar componentes de una expresión aritmética (NUMERO, OPERANDO, OPERADOR, etc.).
+*   **`Problema2/`**: Contiene el validador de sintaxis para cadenas bajo la Notación FEN (Forsyth-Edwards Notation) de ajedrez.
+*   **`Problema3/`**: Contiene el algoritmo para verificar la Conjetura de Collatz en un intervalo dado [p, q].
 *   **`Defensa/`**: Contiene link de video defensa
 
 ---
